@@ -1,0 +1,28 @@
+# Do not include azure-functions-worker in this file
+# The Python Worker is managed by the Azure Functions platform
+# Manually managing azure-functions-worker may cause unexpected issues
+
+azure-functions
+os
+azure-functions-admin
+azure-functions-app
+azure-functions-app-manifest
+azure-functions-app-patch
+azure-functions-app-patch-manifest
+azure-functions-app-patch-xml
+azure-functions-app-xml
+azure-functions-configuration
+azure-functions-core-tools
+azure-functions-devops-build
+azure-functions-devops-build-manifest
+azure-functions-devops-build-xml
+azure-functions-devops-deploy
+azure-functions-devops-deploy-manifest
+azure-functions-devops-deploy-xml
+azure-functions-devops-xml
+azure-functions-extension-bundle
+requests
+folium
+dotenv
+webbrowser
+
